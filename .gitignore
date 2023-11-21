@@ -1,5 +1,9 @@
+# Ignore as pastas do projeto
 vscode/*
-*.sln
 bin/*
 obj/*
+Solutions/*
+
+# Ignore os arquivos do projeto
+*.sln
 *.csproj
